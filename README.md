@@ -7,4 +7,4 @@ A new dataset for 3D object detection and pose estimation under the point densit
 * Datasets for the paper: 
 > S.-A. Kim, K.-J. Yoon, Point Density-Invariant 3D Object Detection and Pose Estimation, International Conference on Image Processing (ICIP), 2017
 
-Copyright © 2017 Su-A Kim, Gwangju Institute of Science and Technology (GIST)
+Copyright © 2017 Su-A Kim
